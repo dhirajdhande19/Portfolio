@@ -18,7 +18,7 @@ It highlights my skills, showcases my projects, and includes a functional contac
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://portfolio-sandy-theta-j3e1huxpdg.vercel.app/)
+🔗 [View Portfolio](https://portfolio-dhirajdhande.vercel.app/)
 
 ---
 
