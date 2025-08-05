@@ -4,7 +4,12 @@ export default function MinNav() {
       <a className="hover:text-[#cbcbcb]" href="#about">
         About
       </a>
-      <a className="hover:text-[#cbcbcb]" href="#">
+      <a
+        className="hover:text-[#cbcbcb]"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://drive.google.com/file/d/10yN3Ruu6x4L3URifJzZ0KWsCPeSIQjdI/view"
+      >
         Resume
       </a>
       <a className="hover:text-[#cbcbcb]" href="#skills">

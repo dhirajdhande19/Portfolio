@@ -53,7 +53,12 @@ export default function Navbar() {
             para="About Me"
             onClick={closeMenu}
           />
-          <Tab ele={<FileUser />} link="#" para="Resume" onClick={closeMenu} />
+          <Tab
+            ele={<FileUser />}
+            link="https://drive.google.com/file/d/10yN3Ruu6x4L3URifJzZ0KWsCPeSIQjdI/view"
+            para="Resume"
+            onClick={closeMenu}
+          />
           <Tab
             ele={<Code />}
             link="#skills"
