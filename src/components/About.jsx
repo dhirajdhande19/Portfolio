@@ -37,7 +37,7 @@ export default function About() {
         >
           <img
             className="rounded-2xl object-cover h-60 w-60 md:h-80 md:w-250 lg:w-110"
-            src="pfp-img.jpg"
+            src="github-ghibli-pfp.png"
             alt="profile picture"
           />
         </motion.div>
