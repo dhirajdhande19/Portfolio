@@ -138,7 +138,7 @@ export default function Form() {
         <input type="hidden" name="date" value={new Date().toLocaleString()} />
         <div className="flex flex-col items-center">
           {err ? (
-            <p className="text-red-600 mb-4">Please Verify Captch 😅</p>
+            <p className="text-red-600 mb-4">Please Verify Captcha 😅</p>
           ) : null}
           {/* reCAPTCHA widget */}
           <ReCAPTCHA
