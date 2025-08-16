@@ -55,7 +55,7 @@ export default function Navbar() {
           />
           <Tab
             ele={<FileUser />}
-            link="https://drive.google.com/file/d/10yN3Ruu6x4L3URifJzZ0KWsCPeSIQjdI/view"
+            link="https://drive.google.com/file/d/1zXMWb2C2xlwHiEBkQWaqaNaz0S7vN-Pk/view?usp=sharing"
             para="Resume"
             onClick={closeMenu}
           />

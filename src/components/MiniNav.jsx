@@ -8,7 +8,7 @@ export default function MinNav() {
         className="hover:text-[#cbcbcb]"
         target="_blank"
         rel="noopener noreferrer"
-        href="https://drive.google.com/file/d/10yN3Ruu6x4L3URifJzZ0KWsCPeSIQjdI/view"
+        href="https://drive.google.com/file/d/1zXMWb2C2xlwHiEBkQWaqaNaz0S7vN-Pk/view?usp=sharing"
       >
         Resume
       </a>
